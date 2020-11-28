@@ -30,6 +30,8 @@ Vídeo: <https://youtu.be/x5IldMBNPS8>
 
 Vídeo: <https://youtu.be/vY-rpKdR_50>
 
+Projeto: [confeitaria-snape_1.jpg](confeitaria-snape_1.jpg)
+
 ### Vídeo-aula 04: Marvel App, paper prototype interativo
 
 Vídeo: <https://youtu.be/LfHRdwkbkh8>
@@ -37,6 +39,8 @@ Vídeo: <https://youtu.be/LfHRdwkbkh8>
 ### Vídeo-aula 05: Wireframe, Mock, Sketch
 
 Vídeo: <https://youtu.be/i7Kpwjz2Izs>
+
+Projeto: [confeitaria-snape.drawio](confeitaria-snape.drawio)
 
 ### Vídeo-aula 06: Sitemap, atividade, fechamento
 
