@@ -14,7 +14,7 @@ Desenhar esboços das interfaces e planejar a estrutura do site/aplicação.
 
 [Marvel App](https://marvelapp.com/apps)
 
-[Playlist com todas as vídeo-aulas da semana](https://www.youtube.com/playlist?list=PLLkaWLH9A_QU-CWPgqu_Fq4W1hAZhwO4u)
+[Playlist com todas as vídeo-aulas da semana](https://www.youtube.com/playlist?list=PLLkaWLH9A_QWqVTNQHL_NTo4vi_-4Uz-b)
 
 ## Lições
 
